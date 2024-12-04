@@ -16,15 +16,15 @@ ProtoServo
 |-|-|-|-|
 |ESP32|El ESP32 es un microcontrolador de bajo costo y bajo consumo de energía que se utiliza comúnmente en proyectos de Internet de las cosas (IoT) y desarrollo de hardware.|2|$280.00|
 |Cables Dupont|Los cables Dupont son un tipo de cable utilizado comúnmente en electrónica y robótica para conectar componentes y dispositivos. Estos cables suelen tener conectores de tipo macho y hembra que se acoplan fácilmente, lo que facilita la conexión y desconexión de componentes en prototipos y proyectos.|Muchos|$100.00|
-|Tira leds|Una tira de LEDs es una cinta flexible con diodos emisores de luz, ideal para iluminación decorativa, funcional y personalizada.|Muchos|$100.00|
-|Servomotor |Es un tipo de motor eléctrico que se utiliza para controlar con precisión la posición, la velocidad y la aceleración de un sistema mecánico.  | 1 | $70|
-|Motor a pasos| l motor paso a paso es un motor de corriente continua sin escobillas en el que la rotación se divide en un cierto número de pasos resultantes de la estructura del motor. Normalmente, una revolución completa del eje de 360° se divide en 200 pasos, lo que significa que se realiza una sola carrera del eje cada 1,8°. | 1 | $58 |
-|Protoboard |Es una herramienta simple que se usa en proyectos de robótica que permite conectar fácilmente componentes electrónicos entre sí, sin necesidad de realizar una soldadura. | 2 | $80 |
-|Serie de leds | Una pequeña serie de luces led que reciben corriente medante cables dupon | 1 | $10.0 |
+|Tira leds|Una tira de LEDs es una cinta flexible con diodos emisores de luz, ideal para iluminación decorativa, funcional y personalizada.|99 leds|$100.00|
+|Servomotor |Es un tipo de motor eléctrico que se utiliza para controlar con precisión la posición, la velocidad y la aceleración de un sistema mecánico.  | 5 | $250|
+|Protoboard |Es una herramienta simple que se usa en proyectos de robótica que permite conectar fácilmente componentes electrónicos entre sí, sin necesidad de realizar una soldadura. | 1 | $35 |
 | Buzzer | Un zumbador (en inglés buzzer) es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo).| 2 | $20.0 |
 | Sendor de movimiento | Un sensor de presencia o sensor de movimiento es un dispositivo electrónico que pone en funcionamiento un sistema (encendido o apagado) cuando detecta movimiento en el área o ambiente en el que está instalado. | 1 | $50.0 |
+| Sensor de Temperatura  | Un sensor de temperatura mide cambios térmicos, convirtiéndolos en señales eléctricas, para monitorear y controlar procesos en diversos sistemas.  | 1 | $30 |
+| Botones | Los botones son interruptores simples utilizados para activar o desactivar circuitos, permitiendo control manual en dispositivos electrónicos o mecánicos.| 3 | $15 |
 | Palitos de madera | Los palitos de madera los usamos para hacer las estructuras de los cuerpor de los reyes magos | Muchos | $30.0 |
-| Placa de unicel | La placa de unicel alusamos como base del proyecto. Medidad 1m x 1m. | 1 | $50.0 | 
+|  | La placa de unicel alusamos como base del proyecto. Medidad 1m x 1m. | 1 | $50.0 | 
 | Bolas de unicel | Las bolas de unicel las usamos como las cabezas de los personajes. | 3 | $10.0 |
 | Telas | Usamos 3 colores diferentes de telas para hacer la ropa de los reyes magos usamos un aproximado de 50cm de tela por personaje | 1.5 metros | $30.0 | 
 | Foami brilloso y foami moldeable | Usamos hojas de foami brilloso para hacer las coronas y foami moldeable para hacer las manos y narices. | 2 hojas del brilloso y 5 paquetitos de foami moldeable | $40.0 |
