@@ -28,7 +28,7 @@ ProtoServo
 | Escarcha | La escarcha es un material decorativo brillante que oculta cables, ofreciendo un acabado estético en proyectos creativos o festivos. | 1 m | $20.0 | 
 | Cartón | El cartón es un material rígido y liviano, ideal para construir la estructura del ciervo por su facilidad de manipulación. | 1.5 m^2 | $0 |
 | cartulina (1), esferas(15), pompones(12), listón(1), escarcha(1), estrella(1) | Un arbolito de Navidad puede fabricarse con materiales reciclados como cartón o madera, diseñado para sostener luces LED decorativas | Estanbre,  | $30.0 | 
-| Esferas | Usamos ojitos que se mueven para cada rey mago. | 3 pares | $9.0 |
+| Papel lustre | El papel lustre es un material brillante y colorido, ideal para forrar regalos, decoraciones artesanales y proyectos escolares creativos. | 3 pliegos | $12.0 |
 |  | Los usamos para pegar los materiales | Vario | $50.0 | 
 | Pintura | Usamos pintura para pintar las cabezas, manos y otras cosas. | 2 | $40.0 |
 
