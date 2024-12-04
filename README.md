@@ -24,13 +24,12 @@ ProtoServo
 | Sensor de Temperatura  | Un sensor de temperatura mide cambios térmicos, convirtiéndolos en señales eléctricas, para monitorear y controlar procesos en diversos sistemas.  | 1 | $30 |
 | Botones | Los botones son interruptores simples utilizados para activar o desactivar circuitos, permitiendo control manual en dispositivos electrónicos o mecánicos.| 3 | $15 |
 | Palitos de madera | Los palitos de madera los usamos para hacer las estructuras de los cuerpor de los reyes magos | Muchos | $30.0 |
-|  | La placa de unicel alusamos como base del proyecto. Medidad 1m x 1m. | 1 | $50.0 | 
-| Bolas de unicel | Las bolas de unicel las usamos como las cabezas de los personajes. | 3 | $10.0 |
-| Telas | Usamos 3 colores diferentes de telas para hacer la ropa de los reyes magos usamos un aproximado de 50cm de tela por personaje | 1.5 metros | $30.0 | 
-| Foami brilloso y foami moldeable | Usamos hojas de foami brilloso para hacer las coronas y foami moldeable para hacer las manos y narices. | 2 hojas del brilloso y 5 paquetitos de foami moldeable | $40.0 |
-| Estopa | Usamos estopa para hacer el cabello y para el suelo que simula pasto seco | 1 bolsa | $30.0 | 
-| Ojitos locos | Usamos ojitos que se mueven para cada rey mago. | 3 pares | $9.0 |
-| Resistol, silicon, cinta | Los usamos para pegar los materiales | Vario | $50.0 | 
+| Tela Fieltro | El fieltro es una tela flexible y suave, ideal para forrar figuras de cartón como el ciervo, proporcionando acabado elegante. | 1 m  | $30.0 | 
+| Escarcha | La escarcha es un material decorativo brillante que oculta cables, ofreciendo un acabado estético en proyectos creativos o festivos. | 1 m | $20.0 | 
+| Cartón | El cartón es un material rígido y liviano, ideal para construir la estructura del ciervo por su facilidad de manipulación. | 1.5 m^2 | $0 |
+| cartulina (1), esferas(15), pompones(12), listón(1), escarcha(1), estrella(1) | Un arbolito de Navidad puede fabricarse con materiales reciclados como cartón o madera, diseñado para sostener luces LED decorativas | Estanbre,  | $30.0 | 
+| Esferas | Usamos ojitos que se mueven para cada rey mago. | 3 pares | $9.0 |
+|  | Los usamos para pegar los materiales | Vario | $50.0 | 
 | Pintura | Usamos pintura para pintar las cabezas, manos y otras cosas. | 2 | $40.0 |
 
 ## Software utlizado 
