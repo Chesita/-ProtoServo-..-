@@ -43,10 +43,12 @@ ProtoServo
 
 ## Dibujo del prototipo a desarrollar 
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
-Bocetos del Prototipo Final:
+### Bocetos del Prototipo Final:
+![Imagen de WhatsApp 2024-10-30 a las 10 04 41_9580fc13](https://github.com/user-attachments/assets/0825b7af-41d5-4ae3-b1cf-b287f35b0698)
+
 ![Bocetos del Prototipo](https://github.com/user-attachments/assets/e64af4a6-a20f-463f-9495-594d524bdf76)
-Prototipo Final:
-(![](https://github.com/user-attachments/assets/0530dda3-f079-426d-b985-b54a862c1bae)
+### Prototipo Final:
+![](https://github.com/user-attachments/assets/0530dda3-f079-426d-b985-b54a862c1bae)
 
 
 ## Video del proyecto final 
@@ -67,22 +69,28 @@ Las tiras LED tienen la capacidad de cambiar sus secuencias de iluminación. Est
 ## Arquitectura 
 Coloca una imgane donde coloques los sensores, los actuadores, el microcontrolador, base de datos (sqlite o mysql). 
 
-## Código python
-Para descargar el código de micropython descargue la carpeta comprimida en zip, "Reyes Magos.zip"
+## Código Arduino (Placa uno Servos)
 
-Imagenes del código de la placa 1
-![img1p1](https://github.com/dalisoto/Personaje/blob/main/img1p2.jpg?raw=true)
-![img1p1](https://github.com/dalisoto/Personaje/blob/main/img2p2.jpg?raw=true)
-![img1p1](https://github.com/dalisoto/Personaje/blob/main/img3p2.jpg?raw=true)
+![image](https://github.com/user-attachments/assets/7ae3cf69-69a5-4235-ab67-a90526e1645c)
+![image](https://github.com/user-attachments/assets/e58f3323-6dd1-4b83-bd18-077e0de7b9e0)
 
-Imagenes del código de la placa 2
-![img1p2](https://github.com/dalisoto/Personaje/blob/main/img1p1.jpg?raw=true)
-![img2p2](https://github.com/dalisoto/Personaje/blob/main/img2p1.jpg?raw=true)
-![img3p2](https://github.com/dalisoto/Personaje/blob/main/img3p1.jpg?raw=true)
+## Código Arduino (Botones y buzzer)
+![image](https://github.com/user-attachments/assets/6cb89547-b45d-468b-8abf-5c9112bfe042)
+![image](https://github.com/user-attachments/assets/c0374b8b-7de6-447f-8415-824f81377017)
+![image](https://github.com/user-attachments/assets/9d0f88b5-6fc7-4087-bab6-f6bc1713011a)
+
+
+
+## Código Phyton (Comunicación servo y tiras led)
+![image](https://github.com/user-attachments/assets/f354210c-70ed-4449-a466-f21b9e3e1fa9)
+![image](https://github.com/user-attachments/assets/b084e2e0-1104-4c2c-a3e9-3e4fa7ea4ed9)
+![image](https://github.com/user-attachments/assets/b49a1c6d-abce-4f7b-a62e-2320a081272e)
+
 ## Enlace a drive para ver el video del funcionamiento del proyecto
 No se pudo subir a git debido al tamaño del video.
 https://drive.google.com/file/d/1xSZzrpQzt4ZiSIcFHwVN-keGWmTJNXBT/view?usp=sharing
 
 ## Imagen de flujo de Node Red
-![NodeRed](https://github.com/dalisoto/Personaje/blob/main/NodeRedimg.png?raw=true)
+![image](https://github.com/user-attachments/assets/491a893f-f8b9-474f-96da-f454110bd94a)
+
 Para ver el código vaya al archivo "Reyes Magos (2).json "
