@@ -43,8 +43,11 @@ ProtoServo
 
 ## Dibujo del prototipo a desarrollar 
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
-![Dibujo resyes magos](https://github.com/dalisoto/Personaje/blob/main/Dibujo%20reyes%20magos.jpg?raw=true)
-![Prototipo de proyecto](https://github.com/dalisoto/Personaje/assets/139840896/694815de-58d4-4101-8534-eb34bfeb3dda)
+Bocetos del Prototipo Final:
+![Bocetos del Prototipo](https://github.com/user-attachments/assets/e64af4a6-a20f-463f-9495-594d524bdf76)
+Prototipo Final:
+(![](https://github.com/user-attachments/assets/0530dda3-f079-426d-b985-b54a862c1bae)
+
 
 ## Imagenes del proyecto final 
 ![Reyes_magos](https://github.com/dalisoto/Personaje/blob/main/Reyes_magos.jpg?raw=true)
