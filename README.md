@@ -47,8 +47,7 @@ ProtoServo
 ![Imagen de WhatsApp 2024-10-30 a las 10 04 41_9580fc13](https://github.com/user-attachments/assets/0825b7af-41d5-4ae3-b1cf-b287f35b0698)
 
 ![Bocetos del Prototipo](https://github.com/user-attachments/assets/e64af4a6-a20f-463f-9495-594d524bdf76)
-### Prototipo Final:
-![](https://github.com/user-attachments/assets/0530dda3-f079-426d-b985-b54a862c1bae)
+
 
 
 ## Video del proyecto final 
