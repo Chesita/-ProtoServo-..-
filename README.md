@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/33b6225c-9d61-43d6-9aa7-25b2cebec8d7
 # -ProtoServo-..-
 Instrumento de Evaluación Unidad III
 
@@ -52,8 +54,17 @@ ProtoServo
 <img src="https://github.com/user-attachments/assets/ce04e2cb-3412-446d-91c8-ff0aeedf7ffc" width="350"/>
 <img src="https://github.com/user-attachments/assets/ce507cb3-f06b-48d3-9762-40ed4c98318e" width="350"/>
 <img src="https://github.com/user-attachments/assets/3a7b17e2-a93f-4d56-adef-77a18895347c" width="350"/>
+
+https://github.com/user-attachments/assets/44aa2d60-5d0e-43e5-b2e2-3bba216c4fef
+
 <img src="https://github.com/user-attachments/assets/da3f683d-b951-45d2-8ed7-e00a789c3504" width="350"/>
 <img src="https://github.com/user-attachments/assets/35e3250a-0daf-4adf-a7cc-9aca27b4cbe3" width="350"/>
+
+
+
+https://github.com/user-attachments/assets/b1f82301-1895-403c-9d9a-58c96c3324b9
+
+
 <img src="https://github.com/user-attachments/assets/86bc88a7-dd72-4536-bd06-6a9574879a02" width="350"/>
 <img src="https://github.com/user-attachments/assets/aff6b5b9-7bfd-48f7-88aa-6fee7aedc102" width="350"/>
 <img src="https://github.com/user-attachments/assets/bc1043e3-5c66-4b56-ba72-9a2e4ebdaa12" width="350"/>
@@ -97,7 +108,8 @@ Para visualizar mejor el código dirigete a tirasLedsModosNodeRed.py
 ![image](https://github.com/user-attachments/assets/f354210c-70ed-4449-a466-f21b9e3e1fa9)
 ![image](https://github.com/user-attachments/assets/b084e2e0-1104-4c2c-a3e9-3e4fa7ea4ed9)
 ![image](https://github.com/user-attachments/assets/b49a1c6d-abce-4f7b-a62e-2320a081272e)
-
+<img src="https://github.com/user-attachments/assets/1a59834d-c393-477a-a21e-7a230ca010b1" width="200"/>
+<img src="https://github.com/user-attachments/assets/5d13fe25-d72b-4b4a-971b-3c740adb4a27" width="200"/>
 
 
 ## Imagen de flujo de Node Red
