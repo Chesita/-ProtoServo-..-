@@ -82,13 +82,10 @@ Las tiras LED tienen la capacidad de cambiar sus secuencias de iluminación. Est
 
 
 
-## Código Phyton (Comunicación servo y tiras led)
+## Código Phyton (Comunicación servo y tira led)
 ![image](https://github.com/user-attachments/assets/f354210c-70ed-4449-a466-f21b9e3e1fa9)
 ![image](https://github.com/user-attachments/assets/b084e2e0-1104-4c2c-a3e9-3e4fa7ea4ed9)
 ![image](https://github.com/user-attachments/assets/b49a1c6d-abce-4f7b-a62e-2320a081272e)
-<img src="https://github.com/user-attachments/assets/d541e2ce-7ecb-4c56-bcf0-5c6fd2ecb0f5" width="350"/>
-<img src="https://github.com/user-attachments/assets/ccb00514-fb56-4c53-9095-62e3a1798d1b" width="350"/>
-
 
 
 ## Enlace a drive para ver el video del funcionamiento del proyecto
@@ -96,7 +93,6 @@ Las tiras LED tienen la capacidad de cambiar sus secuencias de iluminación. Est
 
 ## Imagen de flujo de Node Red
 ![image](https://github.com/user-attachments/assets/491a893f-f8b9-474f-96da-f454110bd94a)
-<img src="" width="800"/>
 
 
-Para ver el código vaya al archivo "Reyes Magos (2).json "
+
