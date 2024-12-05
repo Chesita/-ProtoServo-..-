@@ -67,11 +67,13 @@ Las tiras LED tienen la capacidad de cambiar sus secuencias de iluminación. Est
 
 
 ## Código Arduino (Placa uno Servos)
+Para visualizar mejor el código dirigete a Buzzerbotones.ino
 ![image](https://github.com/user-attachments/assets/c005e375-fb8d-4eb6-8eb7-5e5ea1ad828e)
 
 
 
 ## Código Arduino (Botones y buzzer)
+Para visualizar mejor el código dirigete Buzzerbotones.ino
 ![image](https://github.com/user-attachments/assets/6cb89547-b45d-468b-8abf-5c9112bfe042)
 ![image](https://github.com/user-attachments/assets/c0374b8b-7de6-447f-8415-824f81377017)
 ![image](https://github.com/user-attachments/assets/9d0f88b5-6fc7-4087-bab6-f6bc1713011a)
@@ -83,6 +85,7 @@ Las tiras LED tienen la capacidad de cambiar sus secuencias de iluminación. Est
 
 
 ## Código Phyton (Comunicación servo y tira led)
+Para visualizar mejor el código dirigete a Buzzerbotones.ino
 ![image](https://github.com/user-attachments/assets/f354210c-70ed-4449-a466-f21b9e3e1fa9)
 ![image](https://github.com/user-attachments/assets/b084e2e0-1104-4c2c-a3e9-3e4fa7ea4ed9)
 ![image](https://github.com/user-attachments/assets/b49a1c6d-abce-4f7b-a62e-2320a081272e)
