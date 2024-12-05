@@ -44,11 +44,11 @@ ProtoServo
 ## Dibujo del prototipo a desarrollar 
 - Coloca el dibujo a mano de la propuesta de prototipo a realizar.
 ### Bocetos del Prototipo Final:
-![Imagen de WhatsApp 2024-10-30 a las 10 04 41_9580fc13](https://github.com/user-attachments/assets/0825b7af-41d5-4ae3-b1cf-b287f35b0698)
+<img src="https://github.com/user-attachments/assets/ccf72362-67e9-4d75-bde5-13c55de32d3f" width="800"/>
 
-![Bocetos del Prototipo](https://github.com/user-attachments/assets/e64af4a6-a20f-463f-9495-594d524bdf76)
-
-
+<img src="https://github.com/user-attachments/assets/e64af4a6-a20f-463f-9495-594d524bdf76" width="800"/>
+### Prototipo Final:
+![](https://github.com/user-attachments/assets/0530dda3-f079-426d-b985-b54a862c1bae)
 
 ## Video del proyecto final 
 https://github.com/user-attachments/assets/d97c0fe8-b416-4963-9f95-82dbbb5f56fb
