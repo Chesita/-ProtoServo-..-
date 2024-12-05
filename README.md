@@ -89,11 +89,10 @@ Para visualizar mejor el código dirigete a tirasLedsModosNodeRed.py
 ![image](https://github.com/user-attachments/assets/b49a1c6d-abce-4f7b-a62e-2320a081272e)
 
 
-## Enlace a drive para ver el video del funcionamiento del proyecto
-
 
 ## Imagen de flujo de Node Red
 ![image](https://github.com/user-attachments/assets/491a893f-f8b9-474f-96da-f454110bd94a)
 
-
+# RESULTDO FINAL
+https://drive.google.com/file/d/1wE0jTrndZ2WiYzavvMfkAt5yT4CU_JT0/view?usp=sharing
 
