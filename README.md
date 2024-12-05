@@ -115,8 +115,10 @@ Las tiras LED tienen la capacidad de cambiar sus secuencias de iluminación. Est
 ## Imagen de flujo de Node Red
 ![image](https://github.com/user-attachments/assets/491a893f-f8b9-474f-96da-f454110bd94a)
 
-# RESULTDO FINAL
+# RESULTADO FINAL
 https://drive.google.com/file/d/1wE0jTrndZ2WiYzavvMfkAt5yT4CU_JT0/view?usp=sharing
+# TikTok
+https://vm.tiktok.com/ZMkdfe3bA/
 
 
 ![image](https://github.com/user-attachments/assets/73f4f94f-ff5e-41bd-b482-29a6b78026fa)
