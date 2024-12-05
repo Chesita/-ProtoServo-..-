@@ -49,23 +49,15 @@ ProtoServo
 <img src="https://github.com/user-attachments/assets/e64af4a6-a20f-463f-9495-594d524bdf76" width="800"/>
 
 ## Ímagenes del proceso
-<img src="https://github.com/user-attachments/assets/ce04e2cb-3412-446d-91c8-ff0aeedf7ffc
-" width="800"/>
-<img src="https://github.com/user-attachments/assets/ce507cb3-f06b-48d3-9762-40ed4c98318e
-" width="800"/>
-<img src="https://github.com/user-attachments/assets/3a7b17e2-a93f-4d56-adef-77a18895347c
-" width="800"/>
-<img src="https://github.com/user-attachments/assets/da3f683d-b951-45d2-8ed7-e00a789c3504
-" width="800"/>
-<img src="https://github.com/user-attachments/assets/35e3250a-0daf-4adf-a7cc-9aca27b4cbe3
-" width="800"/>
-<img src="https://github.com/user-attachments/assets/86bc88a7-dd72-4536-bd06-6a9574879a02
-" width="800"/>
-<img src="https://github.com/user-attachments/assets/aff6b5b9-7bfd-48f7-88aa-6fee7aedc102
-" width="800"/>
+<img src="https://github.com/user-attachments/assets/ce04e2cb-3412-446d-91c8-ff0aeedf7ffc" width="800"/>
+<img src="https://github.com/user-attachments/assets/ce507cb3-f06b-48d3-9762-40ed4c98318e" width="800"/>
+<img src="https://github.com/user-attachments/assets/3a7b17e2-a93f-4d56-adef-77a18895347c" width="800"/>
+<img src="https://github.com/user-attachments/assets/da3f683d-b951-45d2-8ed7-e00a789c3504" width="800"/>
+<img src="https://github.com/user-attachments/assets/35e3250a-0daf-4adf-a7cc-9aca27b4cbe3" width="800"/>
+<img src="https://github.com/user-attachments/assets/86bc88a7-dd72-4536-bd06-6a9574879a02" width="800"/>
+<img src="https://github.com/user-attachments/assets/aff6b5b9-7bfd-48f7-88aa-6fee7aedc102" width="800"/>
 <img src="https://github.com/user-attachments/assets/bc1043e3-5c66-4b56-ba72-9a2e4ebdaa12" width="800"/>
-<img src="https://github.com/user-attachments/assets/e433de7c-1619-4b36-8848-53e19073d238
-" width="800"/>
+<img src="https://github.com/user-attachments/assets/e433de7c-1619-4b36-8848-53e19073d238" width="800"/>
 ## Video del proyecto final 
 https://github.com/user-attachments/assets/d97c0fe8-b416-4963-9f95-82dbbb5f56fb
 
