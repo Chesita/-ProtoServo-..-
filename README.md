@@ -122,3 +122,12 @@ https://drive.google.com/file/d/1wE0jTrndZ2WiYzavvMfkAt5yT4CU_JT0/view?usp=shari
 ![image](https://github.com/user-attachments/assets/73f4f94f-ff5e-41bd-b482-29a6b78026fa)
 
 
+# Examenes de NetaCad JavaScript
+
+
+
+![Captura de pantalla 2024-12-05 144102](https://github.com/user-attachments/assets/c9cf5603-7416-4dea-a7ab-10c292956e3c)
+![Captura de pantalla 2024-12-05 142100](https://github.com/user-attachments/assets/da97dfe2-6f6f-4f3c-b5d0-7ae2c5be00e9)
+![Captura de pantalla 2024-12-05 141307](https://github.com/user-attachments/assets/9678c711-3942-4f4e-bcf2-017dab6aa01d)
+![Captura de pantalla 2024-12-05 135028](https://github.com/user-attachments/assets/a918aa36-ec3f-48ce-bc07-9ccfb694760e)
+![Captura de pantalla 2024-12-05 132815](https://github.com/user-attachments/assets/b9d2e6e5-13eb-4884-86b1-a686ad705862)
