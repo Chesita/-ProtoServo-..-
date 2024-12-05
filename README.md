@@ -49,17 +49,21 @@ Prototipo Final:
 (![](https://github.com/user-attachments/assets/0530dda3-f079-426d-b985-b54a862c1bae)
 
 
-## Imagenes del proyecto final 
-![Reyes_magos](https://github.com/dalisoto/Personaje/blob/main/Reyes_magos.jpg?raw=true)
-![componentes](https://github.com/dalisoto/Personaje/blob/main/componentes.jpg?raw=true)
+## Video del proyecto final 
+https://github.com/user-attachments/assets/d97c0fe8-b416-4963-9f95-82dbbb5f56fb
 
 
 
+## Comunicación  
+En nuestro proyecto, contamos con dos componentes principales que se comunican a través de Node-Red: un servo y tiras LED.
 
-## Comunicación 
-Describir el protocolo de comunicación que tendrá el dispositivo (Como interactua el usuario con el prototipo):
-El proyecto tendrá un sensor de movimiento que al detectar movimiento este se actuará, activando una alarma buzzer que sonará una pequeña canción navideña, también moviendo el servo lo que hará que se mueva a mano de un personaje, esto hará que abrá una cajita en secuencia. Tendrá muchos leds los cuales se prenderán y apagaran. 
+El funcionamiento del sistema se basa en la creación de nodos en Node-Red, los cuales gestionan la interacción y funcionalidad de los componentes. Para lograr esto, los nodos se configuran para suscribirse a un broker, lo que permite que los componentes se conecten a internet y reciban las instrucciones necesarias.
 
+Funcionamiento de los componentes:
+Servo (Piñita): Con la integración de Node-Red, el servo realiza un movimiento oscilatorio controlado. Al hacer clic en el nodo correspondiente, el servo rota de 0° a 180° y luego regresa a la posición inicial de 0°.
+
+Tiras LED (Pino Navideño):
+Las tiras LED tienen la capacidad de cambiar sus secuencias de iluminación. Esto se controla mediante opciones configuradas en Node-Red, que permiten alternar entre diferentes patrones de luces de forma dinámica.
 ## Arquitectura 
 Coloca una imgane donde coloques los sensores, los actuadores, el microcontrolador, base de datos (sqlite o mysql). 
 
