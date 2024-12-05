@@ -1,5 +1,5 @@
 
-https://github.com/user-attachments/assets/33b6225c-9d61-43d6-9aa7-25b2cebec8d7
+
 # -ProtoServo-..-
 Instrumento de Evaluación Unidad III
 
