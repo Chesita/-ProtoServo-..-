@@ -17,21 +17,21 @@ ProtoServo
 |ESP32|El ESP32 es un microcontrolador de bajo costo y bajo consumo de energía que se utiliza comúnmente en proyectos de Internet de las cosas (IoT) y desarrollo de hardware.|2|$280.00|
 |Cables Dupont|Los cables Dupont son un tipo de cable utilizado comúnmente en electrónica y robótica para conectar componentes y dispositivos. Estos cables suelen tener conectores de tipo macho y hembra que se acoplan fácilmente, lo que facilita la conexión y desconexión de componentes en prototipos y proyectos.|Muchos|$100.00|
 |Tira leds|Una tira de LEDs es una cinta flexible con diodos emisores de luz, ideal para iluminación decorativa, funcional y personalizada.|99 leds|$100.00|
-|Servomotor |Es un tipo de motor eléctrico que se utiliza para controlar con precisión la posición, la velocidad y la aceleración de un sistema mecánico.  | 5 | $250|
-|Protoboard |Es una herramienta simple que se usa en proyectos de robótica que permite conectar fácilmente componentes electrónicos entre sí, sin necesidad de realizar una soldadura. | 3 | $105 |
-| Buzzer | Un zumbador (en inglés buzzer) es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo).| 2 | $20.0 |
-| Sendor de movimiento | Un sensor de presencia o sensor de movimiento es un dispositivo electrónico que pone en funcionamiento un sistema (encendido o apagado) cuando detecta movimiento en el área o ambiente en el que está instalado. | 1 | $50.0 |
-| Sensor de Temperatura  | Un sensor de temperatura mide cambios térmicos, convirtiéndolos en señales eléctricas, para monitorear y controlar procesos en diversos sistemas.  | 1 | $30 |
-| Botones | Los botones son interruptores simples utilizados para activar o desactivar circuitos, permitiendo control manual en dispositivos electrónicos o mecánicos.| 3 | $15 |
-| Palitos de madera | Los palitos de madera los usamos para hacer las estructuras de los cuerpor de los reyes magos | Muchos | $30.0 |
-| Tela Fieltro | El fieltro es una tela flexible y suave, ideal para forrar figuras de cartón como el ciervo, proporcionando acabado elegante. | 1 m  | $30.0 | 
-| Escarcha | La escarcha es un material decorativo brillante que oculta cables, ofreciendo un acabado estético en proyectos creativos o festivos. | 1 m | $20.0 | 
-| Cartón | El cartón es un material rígido y liviano, ideal para construir la estructura del ciervo por su facilidad de manipulación. | 1.5 m^2 | $0 |
-| cartulina (1), esferas(15), pompones(12), listón(1), escarcha(1), estrella(1) | Un arbolito de Navidad puede fabricarse con materiales reciclados como cartón o madera, diseñado para sostener luces LED decorativas | Estanbre,  | $30.0 | 
-| Papel lustre | El papel lustre es un material brillante y colorido, ideal para forrar regalos, decoraciones artesanales y proyectos escolares creativos. | 3 pliegos | $12.0 |
-| kola loka, resistol liquido, resistol de barra, silicon de pistola, aguja y cobre | Los usamos para pegar/unir los  materiales | Varios | $100 | 
-| Papel lustre dorado | Forrar la base de madera con la que sostienen los prototipos | .75 | $12.0 |
-| Madera | madera que servirá para tener una base donde se sontendrán los componentes | 50*40 | $80 |
+|Servomotor |Es un tipo de motor eléctrico que se utiliza para controlar con precisión la posición, la velocidad y la aceleración de un sistema mecánico.  | 5 | $250.00|
+|Protoboard |Es una herramienta simple que se usa en proyectos de robótica que permite conectar fácilmente componentes electrónicos entre sí, sin necesidad de realizar una soldadura. | 3 | $105.00 |
+| Buzzer | Un zumbador (en inglés buzzer) es un transductor electroacústico que produce un sonido o zumbido continuo o intermitente de un mismo tono (generalmente agudo).| 2 | $20.00 |
+| Sendor de movimiento | Un sensor de presencia o sensor de movimiento es un dispositivo electrónico que pone en funcionamiento un sistema (encendido o apagado) cuando detecta movimiento en el área o ambiente en el que está instalado. | 1 | $50.00 |
+| Sensor de Temperatura  | Un sensor de temperatura mide cambios térmicos, convirtiéndolos en señales eléctricas, para monitorear y controlar procesos en diversos sistemas.  | 1 | $30.00 |
+| Botones | Los botones son interruptores simples utilizados para activar o desactivar circuitos, permitiendo control manual en dispositivos electrónicos o mecánicos.| 3 | $15.00 |
+| Palitos de madera | Los palitos de madera los usamos para hacer las estructuras de los cuerpor de los reyes magos | Muchos | $30.00 |
+| Tela Fieltro | El fieltro es una tela flexible y suave, ideal para forrar figuras de cartón como el ciervo, proporcionando acabado elegante. | 1 m  | $30.00 | 
+| Escarcha | La escarcha es un material decorativo brillante que oculta cables, ofreciendo un acabado estético en proyectos creativos o festivos. | 1 m | $20.00 | 
+| Cartón | El cartón es un material rígido y liviano, ideal para construir la estructura del ciervo por su facilidad de manipulación. | 1.5 m^2 | $5.00 |
+| cartulina (1), esferas(15), pompones(12), listón(1), escarcha(1), estrella(1) | Un arbolito de Navidad puede fabricarse con materiales reciclados como cartón o madera, diseñado para sostener luces LED decorativas | Estanbre,  | $30.00 | 
+| Papel lustre | El papel lustre es un material brillante y colorido, ideal para forrar regalos, decoraciones artesanales y proyectos escolares creativos. | 3 pliegos | $12.00 |
+| kola loka, resistol liquido, resistol de barra, silicon de pistola, aguja y cobre | Los usamos para pegar/unir los  materiales | Varios | $100.00 | 
+| Papel lustre dorado | Forrar la base de madera con la que sostienen los prototipos | .75 | $12.00 |
+| Madera | madera que servirá para tener una base donde se sontendrán los componentes | 50*40 | $80.00 |
 
 
 ## Software utlizado 
@@ -47,8 +47,7 @@ ProtoServo
 <img src="https://github.com/user-attachments/assets/ccf72362-67e9-4d75-bde5-13c55de32d3f" width="800"/>
 
 <img src="https://github.com/user-attachments/assets/e64af4a6-a20f-463f-9495-594d524bdf76" width="800"/>
-### Prototipo Final:
-![](https://github.com/user-attachments/assets/0530dda3-f079-426d-b985-b54a862c1bae)
+
 
 ## Video del proyecto final 
 https://github.com/user-attachments/assets/d97c0fe8-b416-4963-9f95-82dbbb5f56fb
@@ -69,14 +68,18 @@ Las tiras LED tienen la capacidad de cambiar sus secuencias de iluminación. Est
 Coloca una imgane donde coloques los sensores, los actuadores, el microcontrolador, base de datos (sqlite o mysql). 
 
 ## Código Arduino (Placa uno Servos)
+![image](https://github.com/user-attachments/assets/c005e375-fb8d-4eb6-8eb7-5e5ea1ad828e)
 
-![image](https://github.com/user-attachments/assets/7ae3cf69-69a5-4235-ab67-a90526e1645c)
-![image](https://github.com/user-attachments/assets/e58f3323-6dd1-4b83-bd18-077e0de7b9e0)
+
 
 ## Código Arduino (Botones y buzzer)
 ![image](https://github.com/user-attachments/assets/6cb89547-b45d-468b-8abf-5c9112bfe042)
 ![image](https://github.com/user-attachments/assets/c0374b8b-7de6-447f-8415-824f81377017)
 ![image](https://github.com/user-attachments/assets/9d0f88b5-6fc7-4087-bab6-f6bc1713011a)
+<img src="" width="800"/>
+<img src="" width="800"/>
+<img src="" width="800"/>
+
 
 
 
@@ -84,6 +87,10 @@ Coloca una imgane donde coloques los sensores, los actuadores, el microcontrolad
 ![image](https://github.com/user-attachments/assets/f354210c-70ed-4449-a466-f21b9e3e1fa9)
 ![image](https://github.com/user-attachments/assets/b084e2e0-1104-4c2c-a3e9-3e4fa7ea4ed9)
 ![image](https://github.com/user-attachments/assets/b49a1c6d-abce-4f7b-a62e-2320a081272e)
+<img src="" width="800"/>
+<img src="" width="800"/>
+<img src="" width="800"/>
+
 
 ## Enlace a drive para ver el video del funcionamiento del proyecto
 No se pudo subir a git debido al tamaño del video.
@@ -91,5 +98,7 @@ https://drive.google.com/file/d/1xSZzrpQzt4ZiSIcFHwVN-keGWmTJNXBT/view?usp=shari
 
 ## Imagen de flujo de Node Red
 ![image](https://github.com/user-attachments/assets/491a893f-f8b9-474f-96da-f454110bd94a)
+<img src="" width="800"/>
+
 
 Para ver el código vaya al archivo "Reyes Magos (2).json "
