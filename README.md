@@ -36,7 +36,7 @@ GDS0541
 | Madera | madera que servirá para tener una base donde se sontendrán los componentes | 50*40 | $80.00 |
 
 
-## Software utlizado 
+## Software utilizado 
 | Nombre de Software | Versión | Tipo |
 |-|-|-|
 | Arduino | Reciente | Editor |
