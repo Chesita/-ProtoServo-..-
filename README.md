@@ -37,6 +37,7 @@ ProtoServo
 ## Software utlizado 
 | Nombre de Software | Versión | Tipo |
 |-|-|-|
+| Arduino | Reciente | Editor |
 |Thonny| Reciente | Editor |
 | Node red | Reciente | Conexión WiFi |
 
