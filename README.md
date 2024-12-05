@@ -58,6 +58,7 @@ ProtoServo
 <img src="https://github.com/user-attachments/assets/aff6b5b9-7bfd-48f7-88aa-6fee7aedc102" width="350"/>
 <img src="https://github.com/user-attachments/assets/bc1043e3-5c66-4b56-ba72-9a2e4ebdaa12" width="350"/>
 <img src="https://github.com/user-attachments/assets/e433de7c-1619-4b36-8848-53e19073d238" width="350"/>
+
 ## Video del proyecto final 
 https://github.com/user-attachments/assets/d97c0fe8-b416-4963-9f95-82dbbb5f56fb
 
